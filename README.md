@@ -1,6 +1,6 @@
 
 
-## About Project
+## Guidelines
 
 - git clone <repository_url> and switch master branch
 - after completion of clone run: composer install
