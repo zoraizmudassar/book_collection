@@ -10,3 +10,6 @@
 - php artisan serve
 
 
+Requirements
+
+PHP version: 8.2.12
